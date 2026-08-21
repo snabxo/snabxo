@@ -1,9 +1,4 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=snabxo&label=Profile+views&color=7F52FF&style=flat" />
-  <img src="https://img.shields.io/github/followers/snabxo?label=Followers&style=flat&color=7F52FF" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=snabxo&hide_border=true&theme=synthwave" />
 </p>
 
