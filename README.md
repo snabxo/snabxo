@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snabxo&hide_border=true&theme=synthwave" />
-</p>
-
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
