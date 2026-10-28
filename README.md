@@ -1,8 +1,6 @@
 
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=snabxo&theme=dark&hide_border=true&card_width=800)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=snabxo&show_icons=true&theme=dark&card_width=800&border_radius=6)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snabxo&card_width=800&size_weight=0.5&count_weight=0&langs_count=5&theme=dark)
 
 | Repositories                                                                                                         | Commits                                                                                                                |
